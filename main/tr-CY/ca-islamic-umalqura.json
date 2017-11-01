@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "tr",
         "territory": "CY"
@@ -15,15 +15,15 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Muharrem",
+                  "1": "Muhar.",
                   "2": "Safer",
-                  "3": "Rebiülevvel",
-                  "4": "Rebiülahir",
-                  "5": "Cemaziyelevvel",
-                  "6": "Cemaziyelahir",
+                  "3": "R.evvel",
+                  "4": "R.ahir",
+                  "5": "C.evvel",
+                  "6": "C.ahir",
                   "7": "Recep",
                   "8": "Şaban",
-                  "9": "Ramazan",
+                  "9": "Ram.",
                   "10": "Şevval",
                   "11": "Zilkade",
                   "12": "Zilhicce"
@@ -59,15 +59,15 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Muharrem",
+                  "1": "Muhar.",
                   "2": "Safer",
-                  "3": "Rebiülevvel",
-                  "4": "Rebiülahir",
-                  "5": "Cemaziyelevvel",
-                  "6": "Cemaziyelahir",
+                  "3": "R.evvel",
+                  "4": "R.ahir",
+                  "5": "C.evvel",
+                  "6": "C.ahir",
                   "7": "Recep",
                   "8": "Şaban",
-                  "9": "Ramazan",
+                  "9": "Ram.",
                   "10": "Şevval",
                   "11": "Zilkade",
                   "12": "Zilhicce"
@@ -329,8 +329,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

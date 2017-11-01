@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "de"
       },
@@ -46,14 +46,14 @@
                   "2": "Safar",
                   "3": "Rabiʻ I",
                   "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
-                  "7": "Rajab",
+                  "5": "Dschumada I",
+                  "6": "Dschumada II",
+                  "7": "Radschab",
                   "8": "Shaʻban",
                   "9": "Ramadan",
                   "10": "Shawwal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Dhu l-qaʿda",
+                  "12": "Dhu l-Hiddscha"
                 }
               },
               "stand-alone": {
@@ -90,14 +90,14 @@
                   "2": "Safar",
                   "3": "Rabiʻ I",
                   "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
-                  "7": "Rajab",
+                  "5": "Dschumada I",
+                  "6": "Dschumada II",
+                  "7": "Radschab",
                   "8": "Shaʻban",
                   "9": "Ramadan",
                   "10": "Shawwal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Dhu l-qaʿda",
+                  "12": "Dhu l-Hiddscha"
                 }
               }
             },
@@ -225,8 +225,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -247,8 +247,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -322,8 +322,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
