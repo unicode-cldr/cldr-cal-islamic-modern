@@ -1,12 +1,12 @@
 {
   "main": {
-    "fo": {
+    "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
-        "language": "fo"
+        "language": "jv"
       },
       "dates": {
         "calendars": {
@@ -104,88 +104,88 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "sun.",
-                  "mon": "mán.",
-                  "tue": "týs.",
-                  "wed": "mik.",
-                  "thu": "hós.",
-                  "fri": "frí.",
-                  "sat": "ley."
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
-                  "fri": "F",
-                  "sat": "L"
+                  "sun": "A",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su.",
-                  "mon": "má.",
-                  "tue": "tý.",
-                  "wed": "mi.",
-                  "thu": "hó.",
-                  "fri": "fr.",
-                  "sat": "le."
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "Ahad",
+                  "mon": "Senin",
+                  "tue": "Selasa",
+                  "wed": "Rabu",
+                  "thu": "Kamis",
+                  "fri": "Jumat",
+                  "sat": "Sabtu"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "sun",
-                  "mon": "mán",
-                  "tue": "týs",
-                  "wed": "mik",
-                  "thu": "hós",
-                  "fri": "frí",
-                  "sat": "ley"
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "M",
-                  "thu": "H",
-                  "fri": "F",
-                  "sat": "L"
+                  "sun": "A",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
+                  "sat": "S"
                 },
                 "short": {
-                  "sun": "su",
-                  "mon": "má",
-                  "tue": "tý",
-                  "wed": "mi",
-                  "thu": "hó",
-                  "fri": "fr",
-                  "sat": "le"
+                  "sun": "Ahd",
+                  "mon": "Sen",
+                  "tue": "Sel",
+                  "wed": "Rab",
+                  "thu": "Kam",
+                  "fri": "Jum",
+                  "sat": "Sab"
                 },
                 "wide": {
-                  "sun": "sunnudagur",
-                  "mon": "mánadagur",
-                  "tue": "týsdagur",
-                  "wed": "mikudagur",
-                  "thu": "hósdagur",
-                  "fri": "fríggjadagur",
-                  "sat": "leygardagur"
+                  "sun": "Ahad",
+                  "mon": "Senin",
+                  "tue": "Selasa",
+                  "wed": "Rabu",
+                  "thu": "Kamis",
+                  "fri": "Jumat",
+                  "sat": "Sabtu"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "TW1",
+                  "2": "TW2",
+                  "3": "TW3",
+                  "4": "TW4"
                 },
                 "narrow": {
                   "1": "1",
@@ -194,18 +194,18 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "triwulan kaping pisan",
+                  "2": "triwulan kaping loro",
+                  "3": "triwulan kaping telu",
+                  "4": "triwulan kaping papat"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1. ársfj.",
-                  "2": "2. ársfj.",
-                  "3": "3. ársfj.",
-                  "4": "4. ársfj."
+                  "1": "TW1",
+                  "2": "TW2",
+                  "3": "TW3",
+                  "4": "TW4"
                 },
                 "narrow": {
                   "1": "1",
@@ -214,40 +214,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. ársfjórðingur",
-                  "2": "2. ársfjórðingur",
-                  "3": "3. ársfjórðingur",
-                  "4": "4. ársfjórðingur"
+                  "1": "triwulan kaping pisan",
+                  "2": "triwulan kaping loro",
+                  "3": "triwulan kaping telu",
+                  "4": "triwulan kaping papat"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Isuk",
+                  "pm": "Wengi"
                 }
               }
             },
@@ -263,10 +263,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, dd. MMMM y G",
-              "long": "d. MMMM y G",
-              "medium": "d. MMM y G",
-              "short": "dd.MM.y GGGGG"
+              "full": "EEEE, d MMMM y G",
+              "long": "d MMMM y G",
+              "medium": "d MMM y G",
+              "short": "dd-MM-y GGGGG"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -275,27 +275,27 @@
               "short": "HH:mm"
             },
             "dateTimeFormats": {
-              "full": "{1} 'kl'. {0}",
-              "long": "{1} 'kl'. {0}",
-              "medium": "{1}, {0}",
-              "short": "{1}, {0}",
+              "full": "{1} {0}",
+              "long": "{1} {0}",
+              "medium": "{1} {0}",
+              "short": "{1} {0}",
               "availableFormats": {
                 "Bh": "h B",
                 "Bhm": "h:mm B",
                 "Bhms": "h:mm:ss B",
-                "d": "d.",
+                "d": "d",
                 "E": "ccc",
                 "EBhm": "E h:mm B",
                 "EBhms": "E h:mm:ss B",
-                "Ed": "E d.",
+                "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
-                "GyMMMd": "d. MMM y G",
-                "GyMMMEd": "E d. MMM y G",
+                "GyMMMd": "d MMM y G",
+                "GyMMMEd": "E, d MMM y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -303,32 +303,24 @@
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "dd.MM",
-                "MEd": "E dd.MM",
+                "Md": "dd/MM",
+                "MEd": "E, dd/MM",
                 "MMM": "LLL",
-                "MMMd": "d. MMM",
-                "MMMEd": "E d. MMM",
-                "MMMMd": "d. MMMM",
+                "MMMd": "d MMM",
+                "MMMEd": "E, d MMM",
+                "MMMMd": "d MMMM",
                 "ms": "mm:ss",
                 "y": "y G",
-                "yM": "MM.y",
-                "yMd": "dd.MM.y",
-                "yMEd": "E dd.MM.y",
-                "yMMM": "MMM y",
-                "yMMMd": "d. MMM y",
-                "yMMMEd": "E d. MMM y",
-                "yQQQ": "QQQ 'í' y",
-                "yQQQQ": "QQQQ 'í' y",
                 "yyyy": "y G",
-                "yyyyM": "MM.y GGGGG",
-                "yyyyMd": "dd.MM.y GGGGG",
-                "yyyyMEd": "E dd.MM.y GGGGG",
+                "yyyyM": "MM - y GGGGG",
+                "yyyyMd": "dd - MM - y GGGGG",
+                "yyyyMEd": "E, dd - MM - y GGGGG",
                 "yyyyMMM": "MMM y G",
-                "yyyyMMMd": "d. MMM y G",
-                "yyyyMMMEd": "E d. MMM y G",
+                "yyyyMMMd": "d MMM y G",
+                "yyyyMMMEd": "E, d MMM y G",
                 "yyyyMMMM": "MMMM y G",
-                "yyyyQQQ": "QQQ 'í' y G",
-                "yyyyQQQQ": "QQQQ 'í' y G"
+                "yyyyQQQ": "QQQ y G",
+                "yyyyQQQQ": "QQQQ y G"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -345,8 +337,17 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
-                  "d": "d.–d."
+                  "d": "d – d"
                 },
                 "Gy": {
                   "G": "G y – G y",
@@ -419,61 +420,61 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "MM–MM"
+                  "M": "MM – MM"
                 },
                 "Md": {
-                  "d": "dd.MM–dd.MM",
-                  "M": "dd.MM–dd.MM"
+                  "d": "dd/MM – dd/MM",
+                  "M": "dd/MM – dd/MM"
                 },
                 "MEd": {
-                  "d": "E dd.MM–E dd.MM",
-                  "M": "E dd.MM–E dd.MM"
+                  "d": "E, dd/MM – E, dd/MM",
+                  "M": "E, dd/MM – E, dd/MM"
                 },
                 "MMM": {
-                  "M": "MMM–MMM"
+                  "M": "LLL – LLL"
                 },
                 "MMMd": {
-                  "d": "d.–d. MMM",
-                  "M": "d. MMM–d. MMM"
+                  "d": "d – d MMM",
+                  "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "E d. MMM–E d. MMM",
-                  "M": "E d. MMM–E d. MMM"
+                  "d": "E, d MMM – E, d MMM",
+                  "M": "E, d MMM – E, d MMM"
                 },
                 "y": {
-                  "y": "y–y G"
+                  "y": "y – y G"
                 },
                 "yM": {
-                  "M": "MM.y–MM.y GGGGG",
-                  "y": "MM.y–MM.y GGGGG"
+                  "M": "MM-y – MM-y GGGGG",
+                  "y": "MM-y – MM-y GGGGG"
                 },
                 "yMd": {
-                  "d": "dd.MM.y–dd.MM.y GGGGG",
-                  "M": "dd.MM.y–dd.MM.y GGGGG",
-                  "y": "dd.MM.y–dd.MM.y GGGGG"
+                  "d": "dd-MM-y – dd-MM-y GGGGG",
+                  "M": "dd-MM-y – dd-MM-y GGGGG",
+                  "y": "dd-MM-y – dd-MM-y GGGGG"
                 },
                 "yMEd": {
-                  "d": "E dd.MM.y–E dd.MM.y GGGGG",
-                  "M": "E dd.MM.y–E dd.MM.y GGGGG",
-                  "y": "E dd.MM.y–E dd.MM.y GGGGG"
+                  "d": "E, dd-MM-y – E, dd-MM-y GGGGG",
+                  "M": "E, dd-MM-y – E, dd-MM-y GGGGG",
+                  "y": "E, dd-MM-y – E, dd-MM-y GGGGG"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y G",
-                  "y": "MMM y–MMM y G"
+                  "M": "MMM – MMM y G",
+                  "y": "MMM y – MMM y G"
                 },
                 "yMMMd": {
-                  "d": "d.–d. MMM y G",
-                  "M": "d. MMM–d. MMM y G",
-                  "y": "d. MMM y–d. MMM y G"
+                  "d": "d – d MMM y G",
+                  "M": "d MMM – d MMM y G",
+                  "y": "d MMM y – d MMM y G"
                 },
                 "yMMMEd": {
-                  "d": "E d. MMM–E d. MMM y",
-                  "M": "E d. MMM–E d. MMM y",
-                  "y": "E d. MMM y–E d. MMM y G"
+                  "d": "E, d MMM – E, d MMM y G",
+                  "M": "E, d MMM – E, d MMM y G",
+                  "y": "E, d MMM y – E, d MMM y G"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM y G",
-                  "y": "MMMM y–MMMM y G"
+                  "M": "MMMM – MMMM y G",
+                  "y": "MMMM y – MMMM y G"
                 }
               }
             }
