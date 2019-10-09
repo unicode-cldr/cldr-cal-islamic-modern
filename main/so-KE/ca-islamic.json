@@ -3,8 +3,7 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so",
         "territory": "KE"
@@ -15,7 +14,7 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Muh.",
+                  "1": "Mux.",
                   "2": "Saf.",
                   "3": "Rab. I",
                   "4": "Rab. II",
@@ -43,23 +42,23 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Muharram",
+                  "1": "Muxarram",
                   "2": "Safar",
-                  "3": "Rabiʻ I",
-                  "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
+                  "3": "Rabic al-awwal",
+                  "4": "Rabic al-thani",
+                  "5": "Jumada al-awwal",
+                  "6": "jumada al-thani",
                   "7": "Rajab",
-                  "8": "Shaʻban",
+                  "8": "Shacban",
                   "9": "Ramadan",
                   "10": "Shawwal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Dul al-qacda",
+                  "12": "Dul xijjah"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Muh.",
+                  "1": "Mux.",
                   "2": "Saf.",
                   "3": "Rab. I",
                   "4": "Rab. II",
@@ -69,8 +68,8 @@
                   "8": "Sha.",
                   "9": "Ram.",
                   "10": "Shaw.",
-                  "11": "Dhuʻl-Q.",
-                  "12": "Dhuʻl-H."
+                  "11": "Dul-Q.",
+                  "12": "Dul-X."
                 },
                 "narrow": {
                   "1": "1",
@@ -87,18 +86,18 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Muharram",
+                  "1": "Muxarram",
                   "2": "Safar",
-                  "3": "Rabiʻ I",
-                  "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
+                  "3": "Rabic al-awwal",
+                  "4": "Rabic al-thani",
+                  "5": "Jumada al-awwal",
+                  "6": "jumada al-thani",
                   "7": "Rajab",
-                  "8": "Shaʻban",
+                  "8": "Shacban",
                   "9": "Ramadan",
                   "10": "Shawwal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Dul al-qacdah",
+                  "12": "Dul xijjah"
                 }
               }
             },
@@ -107,7 +106,7 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -116,7 +115,7 @@
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "S",
+                  "tue": "T",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -125,7 +124,7 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -134,10 +133,10 @@
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Salaasa",
-                  "wed": "Arbaca",
+                  "tue": "Talaado",
+                  "wed": "Arbaco",
                   "thu": "Khamiis",
-                  "fri": "Jimce",
+                  "fri": "Jimco",
                   "sat": "Sabti"
                 }
               },
@@ -145,7 +144,7 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -154,7 +153,7 @@
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "S",
+                  "tue": "T",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -163,7 +162,7 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -172,10 +171,10 @@
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Salaasa",
-                  "wed": "Arbaca",
+                  "tue": "Talaado",
+                  "wed": "Arbaco",
                   "thu": "Khamiis",
-                  "fri": "Jimce",
+                  "fri": "Jimco",
                   "sat": "Sabti"
                 }
               }
@@ -254,13 +253,13 @@
             },
             "eras": {
               "eraNames": {
-                "0": "AH"
+                "0": "HD"
               },
               "eraAbbr": {
-                "0": "AH"
+                "0": "HD"
               },
               "eraNarrow": {
-                "0": "AH"
+                "0": "HD"
               }
             },
             "dateFormats": {

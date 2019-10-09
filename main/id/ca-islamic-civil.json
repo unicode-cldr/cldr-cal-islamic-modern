@@ -3,8 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "id"
       },
@@ -16,16 +15,16 @@
                 "abbreviated": {
                   "1": "Muh.",
                   "2": "Saf.",
-                  "3": "Rab. I",
-                  "4": "Rab. II",
-                  "5": "Jum. I",
-                  "6": "Jum. II",
+                  "3": "Rab. Awal",
+                  "4": "Rab. Akhir",
+                  "5": "Jum. Awal",
+                  "6": "Jum. Akhir",
                   "7": "Raj.",
-                  "8": "Sha.",
+                  "8": "Sya.",
                   "9": "Ram.",
                   "10": "Syaw.",
-                  "11": "Dhuʻl-Q.",
-                  "12": "Dhuʻl-H."
+                  "11": "Zulka.",
+                  "12": "Zulhi."
                 },
                 "narrow": {
                   "1": "1",
@@ -42,34 +41,34 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Muharram",
+                  "1": "Muharam",
                   "2": "Safar",
-                  "3": "Rabiʻ I",
-                  "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
+                  "3": "Rabiulawal",
+                  "4": "Rabiulakhir",
+                  "5": "Jumadilawal",
+                  "6": "Jumadilakhir",
                   "7": "Rajab",
-                  "8": "Sya’ban",
-                  "9": "Ramadhan",
+                  "8": "Syakban",
+                  "9": "Ramadan",
                   "10": "Syawal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Zulkaidah",
+                  "12": "Zulhijah"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
                   "1": "Muh.",
                   "2": "Saf.",
-                  "3": "Rab. I",
-                  "4": "Rab. II",
-                  "5": "Jum. I",
-                  "6": "Jum. II",
+                  "3": "Rab. Awal",
+                  "4": "Rab. Akhir",
+                  "5": "Jum. Awal",
+                  "6": "Jum. Akhir",
                   "7": "Raj.",
-                  "8": "Sha.",
+                  "8": "Sya.",
                   "9": "Ram.",
                   "10": "Syaw.",
-                  "11": "Dhuʻl-Q.",
-                  "12": "Dhuʻl-H."
+                  "11": "Zulka.",
+                  "12": "Zulhi."
                 },
                 "narrow": {
                   "1": "1",
@@ -86,18 +85,18 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Muharram",
+                  "1": "Muharam",
                   "2": "Safar",
-                  "3": "Rabiʻ I",
-                  "4": "Rabiʻ II",
-                  "5": "Jumada I",
-                  "6": "Jumada II",
+                  "3": "Rabiulawal",
+                  "4": "Rabiulakhir",
+                  "5": "Jumadilawal",
+                  "6": "Jumadilakhir",
                   "7": "Rajab",
-                  "8": "Sya’ban",
-                  "9": "Ramadhan",
+                  "8": "Syakban",
+                  "9": "Ramadan",
                   "10": "Syawal",
-                  "11": "Dhuʻl-Qiʻdah",
-                  "12": "Dhuʻl-Hijjah"
+                  "11": "Zulkaidah",
+                  "12": "Zulhijah"
                 }
               }
             },

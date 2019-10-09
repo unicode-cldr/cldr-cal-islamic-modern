@@ -3,8 +3,7 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "uz"
       },
@@ -16,16 +15,16 @@
                 "abbreviated": {
                   "1": "Muh.",
                   "2": "Saf.",
-                  "3": "Rab. I",
-                  "4": "Rab. II",
-                  "5": "Jum. I",
-                  "6": "Jum. II",
+                  "3": "Rob. avv.",
+                  "4": "Rob. ox.",
+                  "5": "Jum. avv.",
+                  "6": "Jum. ox.",
                   "7": "Raj.",
                   "8": "Sha.",
                   "9": "Ram.",
-                  "10": "Shaw.",
-                  "11": "Dhuʻl-Q.",
-                  "12": "Dhuʻl-H."
+                  "10": "Shav.",
+                  "11": "Zul-q.",
+                  "12": "Zul-h."
                 },
                 "narrow": {
                   "1": "1",
@@ -44,15 +43,15 @@
                 "wide": {
                   "1": "Muharram",
                   "2": "Safar",
-                  "3": "Robiʼ ul-avval",
-                  "4": "Robiʼ ul-oxir",
+                  "3": "Robi’ ul-avval",
+                  "4": "Robi’ ul-oxir",
                   "5": "Jumad ul-avval",
                   "6": "Jumad ul-oxir",
                   "7": "Rajab",
-                  "8": "Shaʼbon",
+                  "8": "Sha’bon",
                   "9": "Ramazon",
                   "10": "Shavvol",
-                  "11": "Zul-qaʼda",
+                  "11": "Zul-qa’da",
                   "12": "Zul-hijja"
                 }
               },
@@ -60,16 +59,16 @@
                 "abbreviated": {
                   "1": "Muh.",
                   "2": "Saf.",
-                  "3": "Rab. I",
-                  "4": "Rab. II",
-                  "5": "Jum. I",
-                  "6": "Jum. II",
+                  "3": "Rob. avv.",
+                  "4": "Rob. ox.",
+                  "5": "Jum. avv.",
+                  "6": "Jum. ox.",
                   "7": "Raj.",
                   "8": "Sha.",
                   "9": "Ram.",
-                  "10": "Shaw.",
-                  "11": "Dhuʻl-Q.",
-                  "12": "Dhuʻl-H."
+                  "10": "Shav.",
+                  "11": "Zul-q.",
+                  "12": "Zul-h."
                 },
                 "narrow": {
                   "1": "1",
@@ -88,15 +87,15 @@
                 "wide": {
                   "1": "Muharram",
                   "2": "Safar",
-                  "3": "Robiʼ ul-avval",
-                  "4": "Robiʼ ul-oxir",
+                  "3": "Robi’ ul-avval",
+                  "4": "Robi’ ul-oxir",
                   "5": "Jumad ul-avval",
                   "6": "Jumad ul-oxir",
                   "7": "Rajab",
-                  "8": "Shaʼbon",
+                  "8": "Sha’bon",
                   "9": "Ramazon",
                   "10": "Shavvol",
-                  "11": "Zul-qaʼda",
+                  "11": "Zul-qa’da",
                   "12": "Zul-hijja"
                 }
               }
@@ -289,13 +288,13 @@
             },
             "eras": {
               "eraNames": {
-                "0": "AH"
+                "0": "Hijriy yil"
               },
               "eraAbbr": {
-                "0": "AH"
+                "0": "Hijriy yil"
               },
               "eraNarrow": {
-                "0": "AH"
+                "0": "Hijriy yil"
               }
             },
             "dateFormats": {
@@ -351,12 +350,12 @@
                 "yyyyM": "MM.y (GGGGG)",
                 "yyyyMd": "dd.MM.y (GGGGG)",
                 "yyyyMEd": "E, dd.MM.y (GGGGG)",
-                "yyyyMMM": "y (G), MMM",
-                "yyyyMMMd": "d-MMM, y (G)",
+                "yyyyMMM": "MMM, y (G)",
+                "yyyyMMMd": "d-MMM, y G",
                 "yyyyMMMEd": "E, d-MMM, y (G)",
-                "yyyyMMMM": "y (G), MMMM",
-                "yyyyQQQ": "y (G), QQQ",
-                "yyyyQQQQ": "y (G), QQQQ"
+                "yyyyMMMM": "MMMM, y G",
+                "yyyyQQQ": "QQQ, y (G)",
+                "yyyyQQQQ": "QQQQ, y (G)"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
