@@ -3,7 +3,7 @@
     "so": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so"
       },
@@ -252,13 +252,13 @@
             },
             "eras": {
               "eraNames": {
-                "0": "HD"
+                "0": "AH"
               },
               "eraAbbr": {
                 "0": "HD"
               },
               "eraNarrow": {
-                "0": "HD"
+                "0": "AH"
               }
             },
             "dateFormats": {
@@ -399,7 +399,7 @@
                   "h": "h–h a"
                 },
                 "H": {
-                  "H": "HH–HH"
+                  "H": "HH – HH"
                 },
                 "hm": {
                   "a": "h:mm a – h:mm a",
@@ -407,8 +407,8 @@
                   "m": "h:mm–h:mm a"
                 },
                 "Hm": {
-                  "H": "HH:mm–HH:mm",
-                  "m": "HH:mm–HH:mm"
+                  "H": "HH:mm – HH:mm",
+                  "m": "HH:mm – HH:mm"
                 },
                 "hmv": {
                   "a": "h:mm a – h:mm a v",
@@ -416,15 +416,15 @@
                   "m": "h:mm–h:mm a v"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm v",
-                  "m": "HH:mm–HH:mm v"
+                  "H": "HH:mm – HH:mm v",
+                  "m": "HH:mm – HH:mm v"
                 },
                 "hv": {
                   "a": "h a – h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {
-                  "H": "HH–HH v"
+                  "H": "HH – HH v"
                 },
                 "M": {
                   "M": "M–M"
